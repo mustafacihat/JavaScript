@@ -34,3 +34,6 @@ console.log(typeof number);
 var software = null;
 console.log(software);
 console.log(typeof software);
+
+age = false;
+console.log(age);

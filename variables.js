@@ -41,5 +41,3 @@ var a=10,b=20,c=a,a=b;
 console.log("a = " + a);
 console.log("b = " + b);
 console.log("c = " + c);
-
-console.log(typeof i);
