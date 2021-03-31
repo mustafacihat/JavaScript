@@ -28,3 +28,10 @@ var i = 100;
 i = 10;
 
 console.log(i);
+
+
+var i,n;
+
+n = 773;
+i = n;
+console.log("the value of i = " + i);
