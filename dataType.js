@@ -37,3 +37,8 @@ console.log(typeof software);
 
 age = false;
 console.log(age);
+
+
+var dataType = typeof software;
+console.log(dataType);
+console.log(typeof dataType);
