@@ -35,3 +35,11 @@ var i,n;
 n = 773;
 i = n;
 console.log("the value of i = " + i);
+
+var a=10,b=20,c=a,a=b;
+
+console.log("a = " + a);
+console.log("b = " + b);
+console.log("c = " + c);
+
+console.log(typeof i);
