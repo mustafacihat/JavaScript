@@ -5,7 +5,7 @@ switch (number) {
   case 0:
   case 1:
   case 2:
-    console.log("Low Number.");
+    console.log("Low Number");
     break;
   case 3:
   case 4:
