@@ -19,5 +19,5 @@ console.log("there is no light color like that");
 }
 
 for (var i = 0; i < 5; i++) {
-  console.log("hello")
+  console.log("hello");
 }
