@@ -7,5 +7,6 @@ console.log(firstName);
 console.log(lastName);
 console.log(fullName);
 
+console.log("I am adding this code for checking this ide")
 
 
